@@ -1,0 +1,33 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# GeoJSON files
+*.geojson text
+*.json text
+
+# Documentation
+*.md text
+README* text
+CONTRIBUTING* text
+
+# Source code
+*.ts text
+*.tsx text
+*.js text
+*.jsx text
+*.css text
+*.html text
+
+# Configuration files
+*.json text
+*.yml text
+*.yaml text
+*.toml text
+
+# Package files
+package.json text
+package-lock.json text
+
+# Git files
+.gitignore text
+.gitattributes text

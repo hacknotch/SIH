@@ -1,0 +1,31 @@
+{
+  "name": "sih-railway-map-project",
+  "version": "1.0.0",
+  "description": "Smart India Hackathon - Railway Map Application Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd railway-map-app && npm run dev",
+    "build": "cd railway-map-app && npm run build",
+    "install-deps": "cd railway-map-app && npm install",
+    "start": "cd railway-map-app && npm run dev"
+  },
+  "keywords": [
+    "railway",
+    "map",
+    "geojson",
+    "react",
+    "maplibre",
+    "sih",
+    "hackathon"
+  ],
+  "author": "SIH Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Adi-Deshmukh/SIH.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Adi-Deshmukh/SIH/issues"
+  },
+  "homepage": "https://github.com/Adi-Deshmukh/SIH#readme"
+}
